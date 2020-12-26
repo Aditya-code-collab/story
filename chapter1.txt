@@ -1,0 +1,1 @@
+I user touch chapter1.txt command to make this file than i used gedit file name command to open it using terminal 
