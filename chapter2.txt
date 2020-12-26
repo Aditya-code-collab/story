@@ -1,3 +1,3 @@
 i used comads like --git status-- and --git add fileame-- to track the versions of that file, also if their are lot of files in folder than simply use --       git add .    -- to track all the files
 
-IN next chapter we will learn comits
+IN next chapter we will learn comits and ..........
